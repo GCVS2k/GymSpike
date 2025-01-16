@@ -164,7 +164,7 @@ Para rodar a aplicação é necessário ter Git Bash e Node (versão v22.12.0 ut
 Rode este código no terminal:
 
 ```bash
-git clone https://github.com/Apogeu-Solutions/PS24.2-G02.git
+git clone https://github.com/GCVS2k/GymSpike
 cd PS24.2-G02
 ```
 
