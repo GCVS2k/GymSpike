@@ -165,7 +165,7 @@ Rode este código no terminal:
 
 ```bash
 git clone https://github.com/GCVS2k/GymSpike
-cd PS24.2-G02
+cd GymSpike
 ```
 
 **Importante**: É necessário abrir um terminal dentro da pasta do projeot para rodar cada instância do projeto
