@@ -182,7 +182,7 @@ PORT = 5000 // Ou a porta que deseja utilizar
 Rodando o servidor no terminal:
 
 ```bash
-cd scr/back-end
+cd src/back-end
 npm install
 npm start
 ```
