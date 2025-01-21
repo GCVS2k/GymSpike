@@ -179,7 +179,7 @@ STRING_CONNECTION = // Sua connection string
 PORT = 5000 // Ou a porta que deseja utilizar
 ```
 
-Rodando o servidor no termial:
+Rodando o servidor no terminal:
 
 ```bash
 cd scr/back-end
